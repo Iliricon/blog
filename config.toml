@@ -1,0 +1,65 @@
+baseURL = "https://cvoelcker.de/"
+languageCode = "en-us"
+title = "stuff and other things"
+theme = "minimal"
+disqusShortname = "cvoelcker-de" # delete this to disable disqus comments
+googleAnalytics = ""
+pygmentsCodeFences=true
+pygmentsStyle="trac"
+
+[params]
+    author = "Claas A. Völcker"
+    description = "musings of a rambling soul"
+    githubUsername = "iliricon"
+    accent = "#990000"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = false
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "python"]
+    copyright = "© CC BY-NC-SA 4.0, powered by [minimal](https://themes.gohugo.io/minimal/) and [hugo](https://gohugo.io)"
+
+[[menu.main]]
+    url = "/"
+    name = "home"
+    weight = 1
+
+[[menu.main]]
+    url = "/post/"
+    name = "blog"
+    weight = 2
+
+[[menu.main]]
+    url = "/project/"
+    name = "projects"
+    weight = 3
+
+[[menu.main]]
+    url = "https://wiki.cvoelcker.de"
+    name = "wiki"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:claas@voelcker.net"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/iliricon/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/iliricon/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/claas-völcker-199303142/"
+    name = "linkedin"
+    weight = 4

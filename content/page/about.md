@@ -19,6 +19,8 @@ The story of my life began some years ago in the little town of Bad Soden, Taunu
 
 To take a break from seeing the world, I figured I could do something useful with my life and turn my passion for math into shiny gold and silver. As of now the gold and silver has failed to turn up, but I learned a couple of fun things along the way (like writing long meandering introductions at 1:00 AM). Currently, I style myself _data scienctist_ because it sounds more fancy then _person who is able to import the tensorflow library_.
 
+According to my classmates at university, I am _mad_, _completely insane_ or just _plain wrong_, because I actually like math and statistics.
+
 ---
 
 OK, I will admit it. There is a striking pattern: Queer people write "human being" in their introduction. You caught me. 

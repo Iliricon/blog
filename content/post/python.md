@@ -22,3 +22,15 @@ import importlib
 
 importlib.reload(m)
 ```
+
+### Going straight to a command line from a script
+Basically this fancy line of code opens a python command lline from your script and copies all current locals (e.g. variables, imported libraries, ect.). it is super useful for debugging and for automating the boring parts when you still need to experiment around.
+
+Credit goes to @miterion <3
+
+```python
+from code import interact
+
+# .... somewhere in your code
+interact(local=locals())
+```

@@ -44,3 +44,4 @@ import bisect
 l = [1,2,3]
 bisect.bisect_left(l,0) # output 0
 bisect.bisect_left(l, 2.5) # output 2
+```

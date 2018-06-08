@@ -20,6 +20,8 @@ A quick disclaimer: I know that health-care is something where you have to be pr
 more harm than good. I will definitely not deploy a production ready version of the project for public use unless I've spoken with professional counselors
 or other people with more experience then me. For now, it is more about the research question whether it is actually possible to assess the general
 well-being of a person via their timeline. My guess is that it is somewhat possible, depending on how much they tweet and how open they are with their emotions.
+A second note which I want to add is that I will of course not bother random people because their timeline might show signs of depression. Everything that
+I run will be strictly consentual.
 
 ## Step 2. Getting the data
 

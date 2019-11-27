@@ -9,7 +9,7 @@ pygmentsStyle="trac"
 
 [params]
     author = "Claas A. Völcker"
-    description = "musings of a rambling soul"
+    description = "musings of a computer scientist"
     githubUsername = "iliricon"
     accent = "#990000"
     showBorder = true

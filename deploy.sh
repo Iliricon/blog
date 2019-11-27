@@ -1,2 +1,3 @@
-hugo && rsync -avz --delete public/* alderaan:/srv/hugo/ --chown www-data
+hugo
+rsync -avz --delete public/* kashyyyk:/var/www/cvoelcker/
 

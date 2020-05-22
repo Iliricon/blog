@@ -5,6 +5,7 @@ disableComments: true
 menu: main
 weight: 4
 ---
+
 <figure align="left" style="padding: 1em; float:left; width: 300px">
 	<img alt="A smiling, friendly face"
 		src="/img/profile_pic.jpg">

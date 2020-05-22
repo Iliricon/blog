@@ -63,3 +63,6 @@ pygmentsStyle="trac"
     url = "https://www.linkedin.com/in/claas-voelcker/"
     name = "linkedin"
     weight = 4
+
+[markup.goldmark.renderer]
+    unsafe= true

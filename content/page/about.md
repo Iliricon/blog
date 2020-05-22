@@ -5,23 +5,16 @@ disableComments: true
 menu: main
 weight: 4
 ---
-
-<!--![alt text](/img/profile_pic.jpg "A friendly face")-->
 <figure align="left" style="padding: 1em; float:left; width: 300px">
 	<img alt="A smiling, friendly face"
 		src="/img/profile_pic.jpg">
 	<figcaption><i>Picture courtecy of Jan Bambach</i></figcaption>
 </figure>
 
-Hi, my name is Claas. I am a computer science student, connoisseur of failed cooking experiments and human being. In the past I have been accused of having a very stern resting face, of being political to a fault and of being way to exited in the morning. As for my virtues, people frequently list: not failing at cooking experiments as often as I fear, not being a complete bore and having a pretty decent singing voice.
+Hi, my name is Claas Voelcker. I am a doctoral student in computer science focussing on the theory of reinforcement learning and machine learning. I am employed at the University of Technology in Darmstadt under the supervision of Kristian Kersting and Jan Peters. I will begin a new post at the University of Toronto and the Vector Institute under the supervision of Amir-massoud Farahmand and Animesh Garg. In addition, I am an active member of Queer in AI and local queer activism.
 
-The story of my life began some years ago in the little town of Bad Soden, Taunus. Even though I got around quite a lot, I haven't really moved far from my origins in total. I'm currently studying, sleeping and sometimes even having fun in Darmstadt, more specifically at the _Technische Universität Darmstadt_. But getting here was a pretty long trip. My father worked for a couple of years in NYC and my family tagged along. After I got my my high school diploma, I decided to see some more of the world on my own and spend half a year in the cozy little town of Bani, Pangasinan, Philippines. I even now some Tagalog, but sadly my skills haven't progressed far beyond "_Kumusta ka?_" (How are you?) and "_Busok na ako!!!_" (Please don't feed me anymore, I am nearly bursting).
+My main research interests lie at the intersection of reinforcement learning, probabilistic inference and representation learning. My overarching goal is to get a better understanding of when algorithms fail and what enables specific algorithms to tackle certain kind of environments beyond the vague intuition that is often prevalent in current machine learning research. To achieve this, I believe we need a more well founded theory of what specific aspects of MDPs agents actually (ab)use to achieve their goals.
 
-To take a break from seeing the world, I figured I could do something useful with my life and turn my passion for math into shiny gold and silver. As of now the gold and silver has failed to turn up, but I learned a couple of fun things along the way (like writing long meandering introductions at 1:00 AM). Currently, I style myself _data scienctist_ because it sounds more fancy then _person who is able to import the tensorflow library_.
+Besides conducting research, I am a connoisseur of failed cooking experiments. In the past I have been accused of having a very stern resting face, of being political to a fault and of being way to excited in the morning. As for my virtues, people frequently list: not failing at cooking experiments as often as I fear, not being a complete bore and having a pretty decent singing voice.
 
 According to my classmates at university, I am _mad_, _completely insane_ or just _plain wrong_, because I actually like math and statistics.
-
----
-
-OK, I will admit it. There is a striking pattern: Queer people write "human being" in their introduction. You caught me. 
-

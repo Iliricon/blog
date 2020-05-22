@@ -9,8 +9,8 @@ pygmentsStyle="trac"
 
 [params]
     author = "Claas A. Völcker"
-    description = "musings of a computer scientist"
-    githubUsername = "iliricon"
+    description = "research, reinforcment learning, international life, activism"
+    githubUsername = "cvoelcker"
     accent = "#990000"
     showBorder = true
     backgroundColor = "white"
@@ -31,8 +31,8 @@ pygmentsStyle="trac"
     weight = 2
 
 [[menu.main]]
-    url = "/project/"
-    name = "projects"
+    url = "/research/"
+    name = "research"
     weight = 3
 
 [[menu.main]]
@@ -50,16 +50,16 @@ pygmentsStyle="trac"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/iliricon/"
+    url = "https://github.com/cvoelcker/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/iliricon/"
+    url = "https://twitter.com/c_voelcker/"
     name = "twitter"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/claas-völcker-199303142/"
+    url = "https://www.linkedin.com/in/claas-voelcker/"
     name = "linkedin"
     weight = 4

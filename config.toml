@@ -8,8 +8,8 @@ pygmentsCodeFences=true
 pygmentsStyle="trac"
 
 [params]
-    author = "Claas A. Völcker"
-    description = "research, reinforcment learning, international life, activism"
+    author = "Claas A. Voelcker"
+    description = "research, reinforcement learning, international life, activism"
     githubUsername = "cvoelcker"
     accent = "#990000"
     showBorder = true
